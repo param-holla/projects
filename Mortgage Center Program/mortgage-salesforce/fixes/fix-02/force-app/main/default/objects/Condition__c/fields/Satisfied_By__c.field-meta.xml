@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><fullName>Satisfied_By__c</fullName><label>Satisfied By</label><trackHistory>true</trackHistory><type>Lookup</type><referenceTo>User</referenceTo><relationshipName>Satisfied_Conditions</relationshipName><deleteConstraint>SetNull</deleteConstraint><required>false</required></CustomField>
