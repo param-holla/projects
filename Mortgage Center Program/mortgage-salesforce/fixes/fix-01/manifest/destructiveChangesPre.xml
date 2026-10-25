@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Condition__c.Condition_Number__c</members>
+        <members>Contact.Customer_Since_c__c</members>
+        <members>Contact.Originator_Id_c__c</members>
+        <members>Contact.SIN_c__c</members>
+        <members>Liability__c.Balance_c__c</members>
+        <members>Liability__c.Contact__c</members>
+        <members>Liability__c.Liability_Type_c__c</members>
+        <members>Liability__c.Monthly_Payment_c__c</members>
+        <members>Liability__c.Paid_Off_At_Closing_c__c</members>
+        <members>Loan__c.Status_c__c</members>
+        <members>Property__c.Annual_Property_Tax_c__c</members>
+        <members>Property__c.Monthly_Condo_Fees_c__c</members>
+        <members>Property__c.Monthly_Heating_c__c</members>
+        <members>Property__c.Property_Type_c__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>66.0</version>
+</Package>

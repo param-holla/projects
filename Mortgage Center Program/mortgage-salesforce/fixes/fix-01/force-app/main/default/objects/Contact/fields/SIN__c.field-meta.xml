@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><fullName>SIN__c</fullName><label>SIN</label><description>Optional; credit only. Practise protecting a restricted field (Module 14 GV2)</description><inlineHelpText>Optional; credit only. Practise protecting a restricted field (Module 14 GV2)</inlineHelpText><trackHistory>false</trackHistory><type>EncryptedText</type><length>11</length><maskChar>asterisk</maskChar><maskType>lastFour</maskType><required>false</required></CustomField>

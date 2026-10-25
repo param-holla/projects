@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><fullName>Originator_Id__c</fullName><label>Originator Id</label><description>MS-### for a specialist, BRK-#### for a brokerage</description><inlineHelpText>MS-### for a specialist, BRK-#### for a brokerage</inlineHelpText><trackHistory>false</trackHistory><type>Text</type><length>10</length><required>false</required><externalId>false</externalId><unique>false</unique></CustomField>

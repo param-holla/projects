@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><fullName>Monthly_Payment__c</fullName><label>Monthly Payment</label><description>Counts in TDS</description><inlineHelpText>Counts in TDS</inlineHelpText><trackHistory>false</trackHistory><type>Currency</type><precision>18</precision><scale>2</scale><required>false</required></CustomField>

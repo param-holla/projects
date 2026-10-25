@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><fullName>Appraised_Value__c</fullName><label>Appraised Value</label><description>MIN of the property's appraised value</description><inlineHelpText>MIN of the property's appraised value</inlineHelpText><trackHistory>false</trackHistory><summarizedField>Property__c.Appraised_Value__c</summarizedField><summaryForeignKey>Property__c.Opportunity__c</summaryForeignKey><summaryOperation>min</summaryOperation><type>Summary</type></CustomField>

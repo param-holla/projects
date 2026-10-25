@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Opportunity.Loan_Amount_c__c</members>
+        <members>Property__c.Appraised_Value_c__c</members>
+        <members>Property__c.PurchasePrice__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>66.0</version>
+</Package>
