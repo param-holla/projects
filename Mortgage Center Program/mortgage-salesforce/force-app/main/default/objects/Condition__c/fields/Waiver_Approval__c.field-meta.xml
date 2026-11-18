@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Waiver_Approval__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Create Approval Request first</description>
+    <inlineHelpText>Create Approval Request first</inlineHelpText>
+    <label>Waiver Approval</label>
+    <referenceTo>Approval_Request__c</referenceTo>
+    <relationshipName>Waived_Conditions</relationshipName>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

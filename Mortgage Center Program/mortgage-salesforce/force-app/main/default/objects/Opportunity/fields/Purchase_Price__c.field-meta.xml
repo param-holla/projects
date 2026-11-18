@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Purchase_Price__c</fullName>
+    <description>MAX of the property&apos;s purchase price</description>
+    <inlineHelpText>MAX of the property&apos;s purchase price</inlineHelpText>
+    <label>Purchase Price</label>
+    <summarizedField>Property__c.Purchase_Price__c</summarizedField>
+    <summaryForeignKey>Property__c.Opportunity__c</summaryForeignKey>
+    <summaryOperation>max</summaryOperation>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>
