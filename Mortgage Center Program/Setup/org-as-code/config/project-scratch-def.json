@@ -1,0 +1,8 @@
+{
+  "orgName": "Apex Home Lending (scratch)",
+  "edition": "Developer",
+  "features": ["MultiCurrency"],
+  "settings": {
+    "lightningExperienceSettings": { "enableS1DesktopEnabled": true }
+  }
+}
